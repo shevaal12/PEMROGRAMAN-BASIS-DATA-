@@ -8,3 +8,6 @@ Ada beberapa tabel utama di dalamnya, yaitu:
 **Sparepart dan Detail Servis: mengelola penggunaan suku cadang dalam setiap proses servis.**
 
 Database ini juga menghubungkan data antar tabel dengan menggunakan primary key dan foreign key. Misalnya, satu pelanggan bisa memiliki banyak riwayat servis, dan satu transaksi servis bisa memakai beberapa sparepart yang tercatat di detail servis.Selain itu, database ini punya fitur tambahan seperti stored procedure, function, trigger, dan view. Stored procedure membantu mempermudah pencarian data servis, function berguna untuk menghitung jumlah servis dan total biaya. Trigger berfungsi menjalankan proses otomatis, seperti mencatat log saat ada transaksi baru.Dengan adanya database ini, operasional bengkel jadi lebih teratur dan efisien. Informasi tersimpan dengan aman, mudah dicari, dan bisa digunakan untuk membuat laporan dengan lebih cepat dan tepat.Singkatnya, db_repair_shop membantu bengkel mengelola pelanggan, teknisi, servis, dan stok sparepart secara terstruktur dan praktis.
+
+ERD
+<img width="1032" height="992" alt="ERD" src="https://github.com/user-attachments/assets/95343a84-ecbb-4c21-a3aa-3abcc4e54e2b" />
