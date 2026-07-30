@@ -1,6 +1,7 @@
 # PEMROGRAMAN-BASIS-DATA-
 
 **Database db_repair_shop** dibuat untuk membantu bengkel servis elektronik dalam mengelola berbagai aktivitas sehari-hari. Database ini menyimpan data penting seperti informasi pelanggan, teknisi, perangkat yang diperbaiki, transaksi servis, serta penggunaan sparepart.
+
 Ada beberapa tabel utama di dalamnya, yaitu:
 **Pelanggan: menyimpan data pengguna jasa servis.**
 **Teknisi: berisi informasi teknisi yang melakukan perbaikan.**
